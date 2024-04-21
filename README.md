@@ -36,6 +36,7 @@ _I'd love for you to make the most of this project - it's all about learning, he
 
    ```bash
    npm i
+
    ```
 
 4. **Set up your MongoDB Database**
